@@ -1,0 +1,4 @@
+node_modules
+.env
+dist
+src/mikro-orm.config.ts
