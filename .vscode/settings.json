@@ -1,12 +1,11 @@
 {
     "sqltools.connections": [
         {
-            "database": "lireddit",
-            "driver": "PostgreSQL",
+            "database": "postgres",
+            "dialect": "PostgreSQL",
             "name": "postgres_connection",
             "password": "postgres",
             "port": 5432,
-            "previewLimit": 50,
             "server": "localhost",
             "username": "postgres"
         }
