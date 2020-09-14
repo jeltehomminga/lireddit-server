@@ -1,0 +1,17 @@
+1
+sess:sdjhfjsdfhdf -> { userUd: 1}
+
+2
+express-session will set cookie on my browser jbvcdcksdfjecje
+
+3
+when user makes request
+jbvcdcksdfjecje -> sent to server
+
+4
+server will decrypt the cookie
+jbvcdcksdfjecje -> sdjhfjsdfhdf
+
+5
+make request to redis
+ses:sdjhfjsdfhdf -> { userId: 1}
